@@ -1,7 +1,7 @@
 ---
 title: "Why another blog about virtualization?"
 date: 2019-09-09T10:18:37+02:00
-draft: true
+draft: false
 ---
 
 # 2019...time for another blog.   
