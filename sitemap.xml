@@ -31,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://cloerner.github.io/posts/</loc>
+    <lastmod>2019-09-09T10:18:37+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cloerner.github.io/posts/my-first-post/</loc>
+    <lastmod>2019-09-09T10:18:37+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://cloerner.github.io/archives/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,12 +52,6 @@
   
   <url>
     <loc>https://cloerner.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cloerner.github.io/posts/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
