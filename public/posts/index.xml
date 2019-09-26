@@ -6,10 +6,19 @@
     <description>Recent content on vTank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2019 10:18:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2019 08:22:30 +0200</lastBuildDate>
     
 	<atom:link href="https://cloerner.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>64GB in an Intel NUC7i3</title>
+      <link>https://cloerner.github.io/posts/64gb_intel_nuc7i3/</link>
+      <pubDate>Thu, 26 Sep 2019 08:22:30 +0200</pubDate>
+      
+      <guid>https://cloerner.github.io/posts/64gb_intel_nuc7i3/</guid>
+      <description>Memory in the homelab. A topic that probably employs everyone. Most of the CPU resources are sufficient, but memory is usually not enough there. My colleague William Lam has tested in his blog the new 32GB Memory Dimms in his Intel NUCs. Unfortunately, William has no generation 7 NUCs. So I thought, take the 300 Euros and test it yourself in your area. I ordered the new dimms here. The installation was super easy and after 10 minutes the new memory was installed.</description>
+    </item>
     
     <item>
       <title>Why another blog about virtualization?</title>
