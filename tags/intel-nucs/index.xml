@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vTank</title>
-    <link>https://cloerner.github.io/posts/</link>
-    <description>Recent content on vTank</description>
+    <title>Intel NUCs on vTank</title>
+    <link>https://cloerner.github.io/tags/intel-nucs/</link>
+    <description>Recent content in Intel NUCs on vTank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2019 08:22:30 +0200</lastBuildDate>
     
-	<atom:link href="https://cloerner.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cloerner.github.io/tags/intel-nucs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>Memory in the homelab. A topic that probably hits everyone. Most of the time CPU resources are sufficient, but memory is usually a bottleneck. My colleague William Lam has tested the new 32GB DIMMs in his Intel NUCs. Link
 Unfortunately, William has no generation 7 NUCs. So I thought, take the 300 Euros and test it myself in my environment. I ordered the new DIMMs here.
 The installation was super easy and after 10 minutes the new memory was installed.</description>
-    </item>
-    
-    <item>
-      <title>Why another blog about virtualization?</title>
-      <link>https://cloerner.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 09 Sep 2019 10:18:37 +0200</pubDate>
-      
-      <guid>https://cloerner.github.io/posts/my-first-post/</guid>
-      <description> 2019&amp;hellip;time for another blog. Yes, I work for VMware. Therefore, there are many things that I try and test with our products. So far, I have written down all my experiences and ideas for myself, but I thought if it helps me, it will definitely help others. So I decided to start my own blog. Here it is.
-Welcome to vTANK! </description>
     </item>
     
   </channel>

@@ -10,6 +10,27 @@
   </url>
   
   <url>
+    <loc>https://cloerner.github.io/tags/homelab/</loc>
+    <lastmod>2019-09-26T08:22:30+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cloerner.github.io/tags/intel-nucs/</loc>
+    <lastmod>2019-09-26T08:22:30+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cloerner.github.io/tags/</loc>
+    <lastmod>2019-09-26T08:22:30+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://cloerner.github.io/</loc>
     <lastmod>2019-09-26T08:22:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -59,12 +80,6 @@
   
   <url>
     <loc>https://cloerner.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cloerner.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
