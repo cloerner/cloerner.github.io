@@ -17,7 +17,9 @@
       <pubDate>Thu, 26 Sep 2019 08:22:30 +0200</pubDate>
       
       <guid>https://cloerner.github.io/posts/64gb_intel_nuc7i3/</guid>
-      <description>Memory in the homelab. A topic that probably hits everyone. Most of the time CPU resources are sufficient, but memory is usually a bottleneck. My colleague William Lam has tested the new 32GB DIMMs in his Intel NUCs. Link. Unfortunately, William has no generation 7 NUCs. So I thought, take the 300 Euros and test it myself in my environment. I ordered the new DIMMs here. The installation was super easy and after 10 minutes the new memory was installed.</description>
+      <description>Memory in the homelab. A topic that probably hits everyone. Most of the time CPU resources are sufficient, but memory is usually a bottleneck. My colleague William Lam has tested the new 32GB DIMMs in his Intel NUCs. Link.
+Unfortunately, William has no generation 7 NUCs. So I thought, take the 300 Euros and test it myself in my environment. I ordered the new DIMMs here.
+The installation was super easy and after 10 minutes the new memory was installed.</description>
     </item>
     
     <item>
