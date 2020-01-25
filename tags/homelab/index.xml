@@ -6,10 +6,20 @@
     <description>Recent content in homelab on vTank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2019 08:22:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 08:22:30 +0200</lastBuildDate>
     
 	<atom:link href="https://cloerner.github.io/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Running a Homelab in 2020</title>
+      <link>https://cloerner.github.io/posts/running_a_homelab_in_2020/</link>
+      <pubDate>Fri, 24 Jan 2020 08:22:30 +0200</pubDate>
+      
+      <guid>https://cloerner.github.io/posts/running_a_homelab_in_2020/</guid>
+      <description>Why running a Homelab? You need time, you need money and you need electrical power. But where else can you test new software or new features? The cloud could be a good way. But clouds are often expensive, and I wanted to have my lab on-premises.
+There are two ways to build a Homelab on your own. You can buy a big server and test the software in a nested kind of way, or you can buy two or more small form factor (SFF) servers to get the full &amp;ldquo;native&amp;rdquo; experience.</description>
+    </item>
     
     <item>
       <title>64GB in an Intel NUC7i3</title>
