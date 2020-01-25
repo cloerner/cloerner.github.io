@@ -15,3 +15,7 @@ My name is Christian Loerner. Welcome to my blog.
 My carrier at VMware started in early 2016 as a Technical Account Manager in the PSO organization. Prior to that I worked as a senior consultant for several business parters here in Germany. At all I have over 16 years of IT experience. Especially in VMware of course! If you want to know what a TAM does, you can follow this [link.](https://blogs.vmware.com/services-education-insights/2017/11/vmware-technical-account-manager.html)
 
 In all these years I have been able to gain great experience in planning, managing and strategic guidance, which I pass on to customers and companies today.
+
+VCP 2-3 & VCP-DCV 4-5-6
+
+<img src="/images/vmware_cert_VCPDCV2019.png" style="width:300px;height:300px;></img>

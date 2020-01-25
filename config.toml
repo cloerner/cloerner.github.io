@@ -74,3 +74,10 @@ enableRobotsTXT = true
     pre = "<i class='fa fa-road'></i>"
     url = "/disclaimer/"
     weight = 120
+
+  [[menu.main]]
+     weight = 1
+     parent = "about"
+     name = "Code of Conduct"
+     identifier = "conduct"
+     url = "/about/conduct/"
